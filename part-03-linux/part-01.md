@@ -92,5 +92,7 @@
 - `/var/log/auth.log` – Authentication logs.
 - `/var/log/dmesg` – Kernel messages.
 
-
+## 7. Conclusion
+- Linux is powerful and widely used in development, servers, and security.
+- Learning Linux commands and scripting can improve system administration skills.
 
