@@ -1,2 +1,1 @@
-# DevOps-basics-notes
-A basic notes on devops
+touch part-01-git/part-01.md part-02-python/part-01.md part-03-linux/part-01.md part-04-networking/part-01.md part-05-aws/part-01.md part-06-jenkins/part-01.md
