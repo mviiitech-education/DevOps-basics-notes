@@ -29,7 +29,7 @@
   ```
 - Install Java:
   ```sh
-  sudo apt-get install openjdk-11-jdk -y
+  sudo apt-get install openjdk-21-jdk -y
   ```
 
 4. **Install Jenkins**
