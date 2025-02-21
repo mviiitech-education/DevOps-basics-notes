@@ -9,7 +9,7 @@
 
 ## Steps
 
-[Follow this link](./../part-01-git/part-04.md){:target="\_blank"}
+[Follow this link](./../part-01-git/part-03.md){:target="\_blank"}
 
 1. Generate SSH Key Pair
 1. Add SSH Key to GitHub
