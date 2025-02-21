@@ -116,7 +116,7 @@ git checkout -- .
     - `e2e` [ end to end ]
 - Keep repositories clean and documented.
 
-## 6. Conclusion
+## 5. Conclusion
 
 - Git and GitHub are essential tools for modern software development.
 - Mastering version control improves collaboration and productivity.
