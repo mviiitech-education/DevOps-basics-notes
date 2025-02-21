@@ -2,7 +2,7 @@
 
 - A Pull Request (PR) is a method of submitting contributions to a software project. It is commonly used in version control systems like GitHub, GitLab, and Bitbucket. A PR allows developers to notify team members about changes they've pushed to a branch in a repository. Once a PR is created, it can be reviewed, discussed, and eventually merged into the main codebase.
 
-## Steps followed by companies to create a PR:
+## Steps followed by companies to create a PR :
 
 1. **Fork the Repository**: Create a personal copy of the repository on the version control platform.
 1. **Clone the Repository**: Clone the forked repository to your local machine to work on it.
