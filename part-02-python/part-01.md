@@ -1,5 +1,7 @@
 # slot-01 | day-01
 
+<https://github.com/AvinashKumar3000/python-Karpagam-2024>
+
 ---
 
 #### `tamil python learning`
