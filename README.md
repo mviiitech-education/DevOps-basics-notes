@@ -35,3 +35,13 @@ This folder provides a comprehensive guide to Jenkins.
 - [Jenkins: A Comprehensive Guide](./part-06-jenkins/part-01.md)
 
 Feel free to explore the folders and files to enhance your understanding of DevOps.
+
+---
+
+## Jenkins Pipeline
+
+The following links will be used to create a Jenkins pipeline:
+
+- [My Web Server Repository](https://github.com/mviiitech-education/my-web-server)
+- [My Server Repository](https://github.com/mviiitech-education/my-server)
+****
